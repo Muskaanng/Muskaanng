@@ -1,18 +1,13 @@
 # 💫 About Me  
-🎓 I'm an M.Tech student in **Artificial Intelligence & Data Science** at **KIIT University**, driven by a passion for building intelligent, scalable, and impactful AI systems.  
-🔍 My experience spans **Graph Theory** for healthcare network optimization, **LLM-based chatbot systems**, and **YOLO-powered computer vision** for blueprint understanding.  
-🚀 Currently exploring **multi-agent AI systems**, **document intelligence**, and deploying **Generative AI models** using **FastAPI** and **Docker**.  
-🧠 **Interests:** AI agents, NLP, Computer Vision, Graph Analytics, and real-world AI system deployment.  
-🤝 Always open to collaborations on AI-driven products, research initiatives, and innovative tech ideas!
+🎓 I'm an M.Tech student in **Artificial Intelligence & Data Science** at **KIIT University**, passionate about building scalable and impactful AI systems.  
+🔍 My experience spans **Graph Theory** for healthcare networks, **LLM-based chatbots**, and **YOLO-powered computer vision**.  
+🚀 Currently exploring **multi-agent AI systems**, **document intelligence**, and deploying **Generative AI** with **FastAPI** and **Docker**.  
+🧠 **Interests:** AI agents, NLP, Computer Vision, Graph Analytics, ML System Design  
+🤝 Open to collaborations in AI-driven products, research, or innovative tech ideas!
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskaan-gupta-data-analyst-intern/)  
-
----
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 💡 Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,10 +18,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Science & AI  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -34,10 +27,14 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%230084FF.svg?style=for-the-badge&logo=openCV&logoColor=white)
-
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🧪 Other Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskaan-gupta-data-analyst-intern/)
