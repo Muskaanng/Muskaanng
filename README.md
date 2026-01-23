@@ -1,30 +1,92 @@
-# 💫 About Me  
-🎓 I'm an M.Tech student in **Artificial Intelligence & Data Science** at **KIIT University**, passionate about building scalable and impactful AI systems.  
-🔍 My experience spans **Graph Theory** for healthcare networks, **LLM-based chatbots**, and **YOLO-powered computer vision**.  
-🚀 Currently exploring **multi-agent AI systems**, **document intelligence**, and deploying **Generative AI** with **FastAPI** and **Docker**.  
-🧠 **Interests:** AI agents, NLP, Computer Vision, Graph Analytics, ML System Design  
-🤝 Open to collaborations in AI-driven products, research, or innovative tech ideas!
+# About Me
 
----
+I am an **M.Tech student in Artificial Intelligence & Data Science at KIIT University** with a strong focus on **production-grade AI systems, Retrieval-Augmented Generation (RAG), and ML system design**. My work spans **large language models, document intelligence, graph analytics, and computer vision**, with applications in healthcare, enterprise automation, and decision systems.
 
-## 💻 Tech Stack
+I have hands-on experience designing **scalable FastAPI microservices**, deploying AI systems using **Docker**, and building **LLM pipelines** that integrate vector databases, external knowledge sources, and structured reasoning layers. I am particularly interested in **AI agents, graph-based reasoning, and reliable generative AI systems**.
 
-### 💡 Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I am open to **research collaborations, applied ML roles, and AI-driven product development**.
 
-### ⚙️ Frameworks & Tools  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+ 
 
-### 📊 Data Science & AI  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%230084FF.svg?style=for-the-badge&logo=openCV&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+## Technical Expertise
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-%235c1e99.svg?style=for-the-badge&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23e10098.svg?style=for-the-badge&logoColor=white)
+### Programming Languages
+- Python  
+- SQL  
+- JavaScript  
 
-### 🧪 Other Tools  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+### AI & Machine Learning
+- Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Transformers  
+- Graph Neural Networks, Graph Analytics  
+- Computer Vision (YOLO, CNNs)  
+- Natural Language Processing  
+- OCR Pipelines and Document Intelligence  
 
----
+### Frameworks & Libraries
+- PyTorch, TensorFlow  
+- LangChain, Sentence Transformers  
+- spaCy, medspaCy  
+- OpenCV, NumPy, Pandas, scikit-learn  
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskaan-gupta-data-analyst-intern/)
+### Backend & System Design
+- FastAPI, Flask  
+- REST APIs, OAuth2, JWT  
+- Microservices architecture  
+- Asynchronous and scalable inference systems  
+
+### Databases & Storage
+- PostgreSQL / PostGIS  
+- MySQL  
+- Qdrant  
+- ChromaDB  
+
+### DevOps & Tools
+- Docker  
+- Git, Linux  
+- Postman  
+- Power BI  
+- GeoPandas, OSMnx  
+
+ 
+
+## Research & Professional Experience
+
+### AI/ML Engineer — Murphi.ai
+- Built multi-stage **ICD-10 medical coding pipelines** using LLMs and ontology graphs  
+- Designed **secure authentication services** using OAuth2, JWT, and PostgreSQL  
+- Developed **clinical document validation APIs** with structured PDF extraction  
+- Built **enterprise-grade RAG assistants** with prompt guards, caching, and asynchronous scaling  
+
+### AI Research Intern (Graph Theory) — IIT Bhilai
+- Designed healthcare routing and ranking models using **PageRank and centrality metrics**  
+- Applied geospatial graph analysis to optimize emergency response planning  
+- Manuscript in preparation for research publication  
+
+ 
+
+## Key Projects
+
+### KnowRAG — Retrieval-Augmented Document Question Answering System
+- Designed a RAG system combining document retrieval with external web search  
+- Integrated vector search using Qdrant and Google Search API  
+- Deployed using Docker with FastAPI for production usage  
+
+### HealthGraph.ai — Intelligent Emergency Routing Engine
+- Developed a GNN-driven routing system over large-scale road and hospital networks  
+- Implemented A* pathfinding with PostGIS and microservices architecture  
+
+ 
+
+## Research Interests
+- Retrieval-Augmented Generation (RAG)  
+- AI Agents and Multi-Agent Systems  
+- Graph-based Reasoning and GraphRAG  
+- NLP and Document Intelligence  
+- ML System Design and Scalable AI Infrastructure  
+
+ 
+
+## Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/muskaan-gupta-ai-ml-gen-ai-llm 
+- **GitHub:** https://github.com/Muskaanng  
+
